@@ -1,0 +1,13 @@
+print("Nama \t: Aprillia Nurul Aini") 
+print("NIM \t: 26050600002") 
+print("Tempat, tanggal lahir \t: Grobogan 13 April 2010)
+print("Alamat : Pulo Mangin Kab. Grobogan")
+print("Jenis Kelamin \t : Perempuan")
+print("Hobi \t : Membaca novel dan Volly")
+
+Nama : Aprillia Nurul Aini
+NIM : 26050600002
+Tempat, tanggal lahir : Grobogan 13 April 2010
+Alamat : Pulo Mangin Kab. Grobogan
+Jenis Kelamin : Perempuan
+Hobi : Membaca novel dan Volly
